@@ -1,0 +1,17 @@
+# Makefile / arm-none-eabi
+build/
+
+# Optional: other common output locations
+Debug/
+Release/
+cmake-build-*/
+
+# Editor / OS junk
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Local IDE (uncomment if you prefer not to commit tool settings)
+# .vscode/
+# .idea/
